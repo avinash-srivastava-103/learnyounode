@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Solved examples of learnyounode",
+  "author": {
+    "name": "failuree"
+  },
+  "scripts": {
+    "setup" : "npm install"
+  },
+  "devDependencies": {
+    "bl": "x.x.x"
+  },
+  "dependencies": {}
+}
