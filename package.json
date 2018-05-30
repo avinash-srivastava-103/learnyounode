@@ -6,9 +6,10 @@
     "name": "failuree"
   },
   "scripts": {
-    "setup" : "npm install"
+    "setup": "npm install"
   },
   "devDependencies": {
+    "async": "^2.6.1",
     "bl": "x.x.x"
   },
   "dependencies": {}
