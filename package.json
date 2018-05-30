@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "async": "^2.6.1",
-    "bl": "x.x.x"
+    "bl": "x.x.x",
+    "strftime": "^0.10.0"
   },
   "dependencies": {}
 }
